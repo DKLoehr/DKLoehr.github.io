@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
-
 I am currently a second-year PhD student at Princeton, where I'm a member of the [Programming Languages Group](https://pl.cs.princeton.edu/). I graduated from Swarthmore College in 2018 with High Honors, with majors in Mathematics and Computer Science. I'm currently working with my advisor, [Dave Walker](https://www.cs.princeton.edu/~dpw/), on NV, an intermediate language for verification of network control planes.
 
 ## Research Interests
