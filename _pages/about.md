@@ -13,3 +13,8 @@ I am currently a second-year PhD student at Princeton, where I'm a member of the
 ## Research Interests
 
 My interests tend towards formal verification, type theory, program transformations, and programming language design. I am particularly interested in finding ways to automatically simplify programs to aid in verification.
+
+## Publications
+* NV: An intermediate language for network verification \
+  Ryan Beckett, Nick Giannarakis, Devon Loehr, David Walker \
+  NetPL 2019. [Github](https://github.com/princedpw/nv).
