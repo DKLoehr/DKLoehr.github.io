@@ -3,7 +3,7 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,4 +17,4 @@ My interests tend towards formal verification, type theory, program transformati
 ## Publications
 * NV: An intermediate language for network verification  
   Ryan Beckett, Nick Giannarakis, Devon Loehr, David Walker  
-  NetPL 2019. [Github](https://github.com/princedpw/nv).
+  NetPL 2019. [Github](https://github.com/princedpw/nv). [Pdf](http://DKLoehr.github.io/files/pldi2020.pdf).
